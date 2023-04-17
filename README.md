@@ -16,7 +16,7 @@ GitHubを小説置き場に使用しています。
 
 - iPhone SE (2020)
 - Google Pixel 6a (2nd device)
-- alaxy A51 5G (3rd device)
+- Galaxy A51 5G (3rd device)
 
 <!--
 **hitsujimaya/hitsujimaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
