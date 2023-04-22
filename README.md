@@ -3,12 +3,7 @@
 ## こんにちは、ひつじまや です。
 
 ウェブサービスが好きな一般人です。
-GitHubを小説置き場に使用しています。
-
-## SNS（連絡先）
-- Nostr（公開鍵） npub1gdjc46gns2lw0harclpkpvf6tmyvygnrtu4j4tfaua0yhvsd4yrq38fkq3
-- Bluesky
-[https://staging.bsky.app/profile/mofumemo.com](https://staging.bsky.app/profile/mofumemo.com)
+GitHubで思考を整理していきたい。（創作、日記、備忘録など）
 
 ## 作業環境
 - MacBook Air (Apple M2)
